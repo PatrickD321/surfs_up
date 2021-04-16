@@ -5,9 +5,9 @@ For Semi-anaual periods Ary would like to know if the temperature is consistent.
 
 ## Results
 The major task in this analysis was to extract the momths involved in the analysis. Tools provided by Sqlalchmey extract, was sufficent to query for the required information.The describe function (.describe()) gives statistical details such as percentile, mean and standard deviation etc. of a data frame or a series of numeric values. Tables 1 and 2 shows the result using the describe function.
-                                            ### Table 1
+### Table 1
 ![Table 1](https://user-images.githubusercontent.com/78861458/115090100-f3337c80-9ee1-11eb-9d4c-1a70907c4652.png) 
-                                            ### Table 2
+### Table 2
 ![Table 2](https://user-images.githubusercontent.com/78861458/115090131-07777980-9ee2-11eb-9935-a55c15cb1891.png)
 
 
