@@ -11,7 +11,7 @@ The major task in this analysis was to extract the momths involved in the analys
 ![Table 2](https://user-images.githubusercontent.com/78861458/115090131-07777980-9ee2-11eb-9935-a55c15cb1891.png)
 
 There are three major points that are determine from the two deliverables:
-1. Tempertures at the beginning of summer the month of June and for the momth of Deecember are same, each quartile shows the same range. However, December has a reduction in temperture, with each quartile of three (3) degrees fahrenhite.
+1. Tempertures at the beginning of the summer, June, and for the month of Deecember are same, each quartile has the same range. However, December has a reduction in temperture, with each quartile of three (3) degrees fahrenhite.
 2. The maximun tempertures for each periods are the same with mininum in the month of December far less than that in June.
 3. Standard deviation June is 3.257417 and for December 3.745920, the value for each period only show a slight difference which gives the indication that the average temp is consistent throughout the year 
 
