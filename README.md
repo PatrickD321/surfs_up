@@ -15,7 +15,7 @@ There are three major points that are determine from the two deliverables:
 2. The maximun tempertures for each periods are the same with mininum in the month of December far less than that in June.
 3. There is a difference of aproximatly three(3) degrees fahrenheit for the average tempreture between two(2) months.
 
- Standard deviation for June is 3.257417 and for December 3.745920, the value for each period only show a slight difference which gives the indication that the average temp maybe  consistent throughout the year. The #inspect function# in sqlachemy can provide a look into the two tables, Measurement and Station, to  
+ Standard deviation for June is 3.257417 and for December 3.745920, the value for each period only show a slight difference which gives the indication that the average temp maybe  consistent throughout the year. The inspect function in sqlachemy can provide a look into the two tables, Measurement and Station, for more information to query that can provide a better picture in our analysis. Rainfall could be a factor in our business plan, since beach attendance will be reduced during this time. The column name "prcp" that gives data for perciptation can provide the average rainfall for both month. Stations location has an important part in this equation, the station table gives the location and elevation for each of the different station "id".
 
 
 
