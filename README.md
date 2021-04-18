@@ -16,6 +16,7 @@ There are three major points that are determine from the two deliverables:
 3. There is a difference of aproximatly three(3) degrees fahrenheit for the average tempreture between two(2) months.
 
  Standard deviation for June is 3.257417 and for December 3.745920, the value for each period only show a slight difference which gives the indication that the average temp maybe  consistent throughout the year. The inspect function in sqlachemy can provide a look into the two tables, Measurement and Station, for more information to query that can provide a better picture in our analysis. Rainfall could be a factor in our business plan, since beach attendance will be reduced during this time. The column name "prcp" from the Measurment table, gives data for perciptation, this can provide the average rainfall for both months. The percipation query will similar to that of "tobs" with the describe function give the results. Stations location has an important part in this equation, the station table gives the location and elevation for each of the different station "id". The figure below shows the query that was used to inspect the columns that provide the basis for our decision to two additional queries to perform to gather more weather data for June and December.
+
 Figure
  ![Fig ](https://user-images.githubusercontent.com/78861458/115150822-0d7f6e80-a038-11eb-85d3-046e1306269c.png)
 
